@@ -3,6 +3,7 @@
 @tailwind utilities;
 
 div{
-    border: 4px solid goldenrod;
-
+    border: 3px solid goldenrod;
+    height: 200px;
+    width: 200px;
 }
