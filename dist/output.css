@@ -584,6 +584,10 @@ video {
   justify-content: center;
 }
 
+.overflow-x-hidden {
+  overflow-x: hidden;
+}
+
 .rounded-2xl {
   border-radius: 1rem;
 }
