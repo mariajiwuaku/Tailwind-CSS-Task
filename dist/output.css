@@ -572,6 +572,10 @@ video {
   width: 100%;
 }
 
+.w-auto {
+  width: auto;
+}
+
 .flex-col {
   flex-direction: column;
 }
@@ -679,6 +683,10 @@ div{
     width: 100%;
   }
 
+  .sm\:w-screen {
+    width: 100vw;
+  }
+
   .sm\:flex-row {
     flex-direction: row;
   }
@@ -707,6 +715,10 @@ div{
 
   .md\:w-full {
     width: 100%;
+  }
+
+  .md\:w-screen {
+    width: 100vw;
   }
 
   .md\:flex-row {
